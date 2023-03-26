@@ -1,0 +1,1 @@
+# Gerador_de_imagens_a_partir_de_texto_com_ia
